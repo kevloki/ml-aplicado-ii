@@ -1,6 +1,6 @@
 CNN,Best C,Kernel,Gamma,CV Accuracy
-lenet,10.0,rbf,auto,0.4872265829408686
-alexnet,0.001,linear,scale,0.6128414442700157
-vgg16,0.001,linear,scale,0.535222396650968
-mobilenet,0.001,linear,scale,0.6598796441653585
-efficientnet,0.01,linear,scale,0.6782103610675039
+lenet,0.001,linear,scale,0.48005232862375724
+alexnet,0.001,linear,scale,0.6303139717425432
+vgg16,0.001,linear,scale,0.5474515960230246
+mobilenet,0.001,linear,scale,0.6496546310832024
+efficientnet,0.01,linear,scale,0.6710779696493983
